@@ -1,4 +1,5 @@
 # hello-world
 GitHub Introduction.
-/
-attempt to edit readme.
+====================
+I have recently returned from a 5 week study abroad in Spain.
+Observations: Tierra Burrito Bar in Spain might be better than Chipotle.
